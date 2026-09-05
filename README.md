@@ -20,6 +20,6 @@ The pipeline should be run with the original RAW and optional CLEANED data folde
 
 The original datasets can be found at these links: 
 
-RAW: [placeholder]
+RAW: [web download](https://figshare.com/articles/dataset/Raw_Data/30399988?backTo=/collections/The_cognitive-motor_coordination_dataset_gait_analysis_under_combined_blindfold_virtual_reality-induced_cognitive_load_and_vibrotactile_feedback/8584895)
 
-CLEANED: [placeholder]
+CLEANED: [web download](https://figshare.com/articles/dataset/Cleaned_Data/32948690?backTo=/collections/_/8584895)
