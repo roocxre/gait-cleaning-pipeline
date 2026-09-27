@@ -1,0 +1,7 @@
+released scripts: https://github.com/JaeyoungShin/simultaneous_EEG-NIRS @ daac0f1 (MIT)
+BBCI toolbox:     https://github.com/bbci/bbci_public @ 2e6fe94 (MIT)
+EEGLAB newtimef:  https://github.com/sccn/eeglab (develop branch, fetched 2026-09-26)
+behavior/ is behavior.zip from the released-scripts repo, unzipped.
+NIRS scripts intentionally not copied (scope: EEG only).
+AAR toolbox:      https://github.com/germangh/eeglab_plugin_aar @ 4f1c77b (GPL-2; eegrepro/aar.py is a port and inherits GPL-2)
+EEGLAB timefreq/newtimefbaseln/newtimeftrialbaseln: same source as newtimef

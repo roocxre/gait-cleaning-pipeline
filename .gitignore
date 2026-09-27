@@ -1,7 +1,12 @@
-# Large dataset folders — NOT tracked (multi-GB; obtain separately)
-Raw Data/
-Cleaned Data/
-Reconstructed/
+# gait analysis datasets
+gait-analysis/Raw Data/
+gait-analysis/Cleaned Data/
+gait-analysis/Reconstructed/
+gait/analysis/dataset/
+
+# eeg analysis datasets
+eeg-analysis/Cleaned Data/
+eeg-analysis/cache/
 
 # Python / tooling caches
 __pycache__/
@@ -11,3 +16,6 @@ __pycache__/
 .mypy_cache/
 .venv/
 venv/
+
+# claude artifacts
+eeg-analysis/PLAN.md

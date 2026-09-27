@@ -1,0 +1,85 @@
+VP001 paper
+VP002 paper
+VP003 paper
+VP004 paper
+VP005 paper
+VP006 paper
+VP007 paper
+VP008 paper
+VP009 paper
+VP010 paper
+VP011 paper
+VP012 paper
+VP013 paper
+VP014 paper
+VP015 paper
+VP016 paper
+VP017 paper
+VP018 paper
+VP019 paper
+VP020 paper
+VP021 paper
+VP022 paper
+VP023 paper
+VP024 paper
+VP025 paper
+VP026 paper
+VP001 released
+VP002 released
+VP003 released
+VP004 released
+VP005 released
+VP006 released
+VP007 released
+VP008 released
+VP009 released
+VP010 released
+VP011 released
+VP012 released
+VP013 released
+VP014 released
+VP015 released
+VP016 released
+VP017 released
+VP018 released
+VP019 released
+VP020 released
+VP021 released
+VP022 released
+VP023 released
+VP024 released
+VP025 released
+VP026 released
+
+paper / intervals selected before_cv
+  2-back        77.7 +-  7.7   (paper 76.9 +- 8.0)
+  3-back        76.1 +-  7.4   (paper 76.0 +- 7.9)
+  2-back T/NT   68.5 +-  6.3   
+  3-back T/NT   67.4 +-  5.0   
+  DSR           86.8 +-  6.4   (paper 86.8 +- 5.9)
+  2-back vs 3-back Wilcoxon signed-rank p = 0.123  (paper: P > 0.05)
+
+paper / intervals selected nested
+  2-back        75.3 +-  8.4   (paper 76.9 +- 8.0)
+  3-back        72.9 +-  8.3   (paper 76.0 +- 7.9)
+  2-back T/NT   62.6 +-  7.6   
+  3-back T/NT   60.2 +-  5.5   
+  DSR           85.9 +-  7.4   (paper 86.8 +- 5.9)
+  2-back vs 3-back Wilcoxon signed-rank p = 0.010  (paper: P > 0.05)
+
+released / intervals selected before_cv
+  2-back        76.7 +-  7.1   (paper 76.9 +- 8.0)
+  3-back        76.1 +-  6.9   (paper 76.0 +- 7.9)
+  2-back T/NT   68.6 +-  5.3   
+  3-back T/NT   64.7 +-  5.7   
+  DSR           85.6 +-  7.1   (paper 86.8 +- 5.9)
+  2-back vs 3-back Wilcoxon signed-rank p = 0.764  (paper: P > 0.05)
+
+released / intervals selected nested
+  2-back        75.7 +-  7.4   (paper 76.9 +- 8.0)
+  3-back        74.8 +-  7.9   (paper 76.0 +- 7.9)
+  2-back T/NT   63.1 +-  6.8   
+  3-back T/NT   57.6 +-  5.1   
+  DSR           84.8 +-  7.7   (paper 86.8 +- 5.9)
+  2-back vs 3-back Wilcoxon signed-rank p = 0.515  (paper: P > 0.05)
+EXIT 0
